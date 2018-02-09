@@ -1,5 +1,4 @@
 # hello-world
-Just getting a feel for things
 
 I'm a pretty typical nerd
 I work in IT
